@@ -1,0 +1,58 @@
+/* body {
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.login-container {
+    background-color: #16B061;
+    padding: 20px;
+    text-align: center;
+    height: 100vh;
+    padding-top: 30px;
+}
+
+
+
+
+
+.button{
+    margin-bottom: 100px;
+} */
+
+.phone-input{
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 380px;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    padding-left: 10px;
+}
+
+.input-field-signin {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+    justify-content: center;
+    display: flex;
+}
+.loginRegistration{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 40px;
+}
+.agreement-text-signin {
+    color: #fff;
+    font-size: 12px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.agreement{
+    margin-top: 115px;
+}

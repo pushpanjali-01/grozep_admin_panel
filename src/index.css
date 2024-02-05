@@ -1,0 +1,35 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import "@fontsource/red-hat-display";
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family:  Red Hat Display;
+    padding: 0;
+    overflow-x: hidden;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+html{
+  font-size: 16px
+}
+*{
+  font-family:  Red Hat Display;
+  /* padding: 0;
+  overflow-x: hidden;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: 0; */
+}
+.css-1o5pq7n{
+width: 295px !important;
+}

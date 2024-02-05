@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.login-container {
+    background-color: #16B061;
+    padding: 20px;
+    text-align: center;
+    height: 100vh;
+    padding-top: 30px;
+}
+
+.logo_img img{
+    width: 250px;
+}
+.logo_img{
+    margin-bottom: 100px;
+}
+
+.login-text {
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.login-description {
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.otp-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+
+.forgot-password-button {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+}
+
+.sign-in-button {
+    width: 70%;
+    padding: 10px;
+    background-color: #fff;
+}
+
+.agreement-text {
+    color: #fff;
+    font-size: 12px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+    /* Center the buttons horizontally */
+    gap: 80px;
+    /* Add space (16px) between the buttons */
+    margin-top: 10px;
+    margin-bottom: 20px;
+    /* Add top margin for spacing from other content */
+}
+.loginReg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.heading1{
+    font-size: 24px;
+}
+.heading2{
+    
+}

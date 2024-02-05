@@ -1,0 +1,56 @@
+.profile-image-container {
+    position: relative;
+    display: inline-block;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 115px;
+    height: 115px;
+    border: 1px solid #3D3D3D66;
+    background-color: #ffffff;
+}
+
+.profile-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.profile-image-none {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-size: 24px;
+    color: #cccccc;
+    background-color: #f0f0f0;
+}
+
+.profile-image-upload {
+    display: none;
+}
+
+.profile-image-edit {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 0px 16px;
+    /* background: rgba(0, 0, 0, 0.7); */
+    color: white;
+    opacity: 0.7;
+    width: 100%;
+}
+.profile-image-profile-page{
+    height: 85%;
+    width: 60%;
+}
+.MuiOutlinedInput-notchedOutline .css-1d3z3hw-MuiOutlinedInput-notchedOutline{
+    border-radius: 10px !important;
+    height: 56px !important;
+}
+.MuiInputBase-input .MuiOutlinedInput-input .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+    border-radius: 10px !important;
+    height: 17px !important;
+}

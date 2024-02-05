@@ -1,0 +1,32 @@
+.MuiOutlinedInput-notchedOutline .css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+    border-radius: 12px !important;
+    height: 56px !important;
+}
+
+.MuiInputBase-input .MuiOutlinedInput-input .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input {
+    border-radius: 12px !important;
+    height: 17px !important;
+}
+
+.TextField-without-border-radius fieldset {
+    border-radius: 12px;
+}
+
+.css-7uy9lz {
+    width: 0px;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+}
+.centered-label {
+    transform: translateY(-50%);
+    top: 50%;
+    left: 16px; /* Adjust this value according to your needs */
+  }
+  
+  .shrink {
+    transform: translateY(-50%) scale(0.75);
+    top: 0;
+  }
+  
+  

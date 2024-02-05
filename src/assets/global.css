@@ -1,0 +1,23 @@
+.logo{
+    max-height: 30px;
+    width: auto;
+}
+.css-zxtyt4-MuiPaper-root-MuiAppBar-root{
+    background-color: white !important;
+    color: black !important;
+}
+
+.css-d9ml5t-MuiDrawer-docked .MuiDrawer-paper{
+    background-image: linear-gradient(#135146,#176371,#174071) !important;
+    color: white;
+}
+.logo-text{
+    color: white;
+    font-size: 14px;
+ 
+}
+.css-1tk1bks-MuiDivider-root{
+    border-color: white !important;
+   margin: 15px !important;
+    
+}
